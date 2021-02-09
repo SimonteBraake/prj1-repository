@@ -1,29 +1,29 @@
 .my-class {
-    color: blue;
-    border: 2px solid #0C125B;
+    color: #00008F;
+    border: 2px solid #236D15;
     text-align: center;
-    background-color: grey;
+    background-color: #89FFA7;
+    border-radius: 20px;
 
 }
 #my-id {
     font-style: normal;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
     text-align: justify;
-    margin-left: 100px;
-    width: 40%;
     border: thick ridge #4C4DC1;
     border-radius: 10;
-    background-color: #CBCBCB;
+    background-color: #89CFEF;
+    float: none;
 }
 #my-id2 {
     font-style: normal;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
     text-align: justify;
-    margin-left: 80px;
     border: thick ridge #4C4DC1;
     border-radius: 10;
-    width: 40%;
-    background-color: #CBCBCB;
-    float: right;
-    margin-right: 40px;
+    background-color: #EBA7A9;
+}
+.Bodymargins {
+    margin-left: 100px;
+    margin-right: 100px;
 }
